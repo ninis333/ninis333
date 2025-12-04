@@ -12,10 +12,13 @@ Eu sou uma jovem apaixonada por tecnologia e novos aprendizados...
 
 - Estudante de T.I
   
-- Desenvolvedora front/back 
+- Desenvolvedora front/back
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ninis333&title_color=ff99ff&icon_color=ff99ff&text_color=cfcfcf&bg_color=1e1e2f)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MariaDB](https://img.shields.io/badge/MariaDB-4479A1.svg?style=for-the-badge&logo=MariaDB&logoColor=white)
 
 <img aling= "center" alt="nise-javascript" height="30" windth="40" src="https://devicon-website.vercel.app/api/csharp/plain.svg?color=%23E993FF"></img>
 <img aling= "center" alt="nise-javascript" height="30" windth="40" src="https://devicon-website.vercel.app/api/javascript/plain.svg?color=%23E993FF"></img>
