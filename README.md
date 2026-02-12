@@ -17,8 +17,9 @@ Eu sou uma jovem apaixonada por tecnologia e novos aprendizados...
 
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MariaDB](https://img.shields.io/badge/MariaDB-4479A1.svg?style=for-the-badge&logo=MariaDB&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 
 <img aling= "center" alt="nise-javascript" height="30" windth="40" src="https://devicon-website.vercel.app/api/csharp/plain.svg?color=%23E993FF"></img>
 <img aling= "center" alt="nise-javascript" height="30" windth="40" src="https://devicon-website.vercel.app/api/javascript/plain.svg?color=%23E993FF"></img>
